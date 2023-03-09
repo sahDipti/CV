@@ -1,0 +1,16 @@
+body {
+    background-color: #ECF2FF;
+}    
+img {
+    height: 300px;
+}
+hr {
+    border: none;
+            height: 8px;
+            background-color: transparent;
+            border-top: 8px dotted white;
+            width: 30%;
+}
+h1 {
+    color: #66bfbf;
+}
